@@ -20,4 +20,4 @@ async def whatip(ctx):
     await ctx.send(text)
 
 # Replace YOUR_BOT_TOKEN with your bot token
-bot.run('MTA4NTUxNDEzMDEyMDc4NTkyMA.GWWV5u._0aC-hMN5td_233DC0OoR8vNeRU8AZa1N-Meww')
+bot.run('PLACE YOUR TOKEN HERE')
